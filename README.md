@@ -27,7 +27,7 @@ and explainable under these conditions**, across three data types:
   forecasting → [repo](https://github.com/Nasim-Amani/AttnSeq2Seq-LoadForecasting)
 - 💹 **Financial time series:** LSTM/RNN vs. Black-Scholes for option pricing → [repo](https://github.com/Nasim-Amani/Option_Pricing)
 
-- 
+
 
 ### 🎓 Teaching
 - **Transformers in Python** (5 h, Persian): [course link](https://hamruyesh.com/product/transformers-python-tutorial/) · [code](https://github.com/Nasim-Amani/Transformers-from-Scratch)
