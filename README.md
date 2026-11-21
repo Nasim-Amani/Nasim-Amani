@@ -23,7 +23,7 @@ The answer: no single mechanism wins everywhere.
 **3. What if the data itself is the problem?** 🌬️
 With 13 years of real airport observations from Oman, I learned that preprocessing can matter more than the model.
 I built a pipeline for **outlier correction, gap-aware imputation and wavelet denoising** to forecast daily peak wind gusts five days ahead.
-*(in preparation)*
+*(manuscript under review)*
 
 **4. Can a model show *why* it decides?** 🦠
 In a collaborative study, we applied transfer learning to SEM images of fuel-cell electrodes and used **Grad-CAM**
