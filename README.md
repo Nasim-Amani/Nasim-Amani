@@ -7,7 +7,7 @@ I also teach AI through published online courses.
 
 ### 🧭 My research path
 
-Each project started with a question the previous one left open.
+Most projects started with a question the previous one left open.
 
 **1. Can comfort explain demand?** ⚡
 My MSc began with Transformers for electricity load forecasting, using **human thermal comfort indices**
@@ -20,9 +20,8 @@ in Seq2Seq models across forecast horizons, with more climate variables and Baye
 The answer: no single mechanism wins everywhere.
 → [IEEE ICEE 2026](https://doi.org/10.1109/ICEE70628.2026.11710637) · *IET Renewable Power Generation* (accepted) · [code](https://github.com/Nasim-Amani/AttnSeq2Seq-LoadForecasting)
 
-**3. What if the data itself is the problem?** 🌬️
-With 13 years of real airport observations from Oman, I learned that preprocessing can matter more than the model.
-I built a pipeline for **outlier correction, gap-aware imputation and wavelet denoising** to forecast daily peak wind gusts five days ahead.
+**3. How much does preprocessing really matter?** 🌬️
+With 13 years of real airport observations from Oman, I tested this step by step. I built a pipeline for outlier correction, gap-aware imputation and wavelet denoising, measured what each stage added, and found that careful preprocessing, especially denoising, improved gust forecasts more than model tuning.
 *(manuscript under review)*
 
 **4. Can a model show *why* it decides?** 🦠
@@ -30,7 +29,7 @@ In a collaborative study, we applied transfer learning to SEM images of fuel-cel
 to check that the models looked at the right regions, validated against independent electrochemical measurements.
 → *Bioresources and Bioprocessing* (accepted) · [code](https://github.com/Nasim-Amani/sem-mfc-biofilm-classification)
 
-**5. Now: rare and abrupt events** ⚡📉
+**5. Now: rare and abrupt events** 📉
 I'm working on sudden ramp events in 1-second solar data, where common metrics can make forecasts look better than they are,
 and on fault prediction from power-grid outage records.
 
@@ -47,7 +46,7 @@ compared step by step with graph-based recommenders such as LightGCN and hypergr
 - **Reinforcement Learning: Snake AI project** (1 h 45 min, Persian): [course](https://hamruyesh.com/product/reinforcement-learning-by-snake-project-tutorial) · [code](https://github.com/Nasim-Amani/SnakeAI)
 
 ### 🛠 Tools
-Python · PyTorch · TensorFlow/Keras · scikit-learn · pandas · PyWavelets · MATLAB · VHDL
+Python · PyTorch · TensorFlow/Keras · scikit-learn · pandas · PyWavelets · OpenCV · MATLAB · VHDL
 
 **Also familiar with:** digital communications (modulation, BER analysis) and FPGA/digital design
 
